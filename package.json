@@ -1,0 +1,22 @@
+{
+  "name": "pihub",
+  "version": "1.0.0",
+  "description": "Webserver for managing local selfmade services and/or scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xv3nm/pihub.git"
+  },
+  "author": "Totem (Xv3nm)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Xv3nm/pihub/issues"
+  },
+  "homepage": "https://github.com/Xv3nm/pihub#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
