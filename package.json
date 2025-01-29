@@ -8,9 +8,12 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "author": "Totem (Xv3nm)",
+  "homepage": "https://Xv3nm.github.io/pihub",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Xv3nm/pihub/issues"
@@ -40,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
