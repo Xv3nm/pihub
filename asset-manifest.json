@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pihub/static/css/main.f855e6bc.css",
-    "main.js": "/pihub/static/js/main.b92cad03.js",
+    "main.js": "/pihub/static/js/main.96813bfc.js",
     "static/js/488.ada0e004.chunk.js": "/pihub/static/js/488.ada0e004.chunk.js",
     "static/media/logo.svg": "/pihub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pihub/index.html",
     "main.f855e6bc.css.map": "/pihub/static/css/main.f855e6bc.css.map",
-    "main.b92cad03.js.map": "/pihub/static/js/main.b92cad03.js.map",
+    "main.96813bfc.js.map": "/pihub/static/js/main.96813bfc.js.map",
     "488.ada0e004.chunk.js.map": "/pihub/static/js/488.ada0e004.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b92cad03.js"
+    "static/js/main.96813bfc.js"
   ]
 }
