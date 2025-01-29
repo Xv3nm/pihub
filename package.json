@@ -1,22 +1,44 @@
 {
   "name": "pihub",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Webserver for managing local selfmade services and/or scripts.",
   "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Xv3nm/pihub.git"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "author": "Totem (Xv3nm)",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Xv3nm/pihub/issues"
   },
-  "homepage": "https://github.com/Xv3nm/pihub#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "jest": "^27.5.1",
+    "jest-dom": "^4.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^4.2.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
