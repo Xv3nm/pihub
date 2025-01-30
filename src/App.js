@@ -17,6 +17,14 @@ function App() {
         >
           Check out my GitHub repository
         </a>
+        <a
+	  className="App-link"
+	  href="https://github.com/Xv3nm/pihub#issues"
+	  target="_blank"
+	  rel="noopener noreferrer"
+  	 >
+	  Report issues here
+	</a>
       </header>
     </div>
   );
