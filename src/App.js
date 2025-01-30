@@ -19,7 +19,7 @@ function App() {
         </a>
         <a
 	  className="App-link"
-	  href="https://github.com/Xv3nm/pihub#issues"
+	  href="https://github.com/Xv3nm/pihub/issues"
 	  target="_blank"
 	  rel="noopener noreferrer"
   	 >
